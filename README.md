@@ -34,5 +34,17 @@ Another important aspect to consider here is idempotence. PUT is idempotent; PAT
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/66931789/187987441-ec42b8e3-ed99-4937-97f0-48f87c56178c.png">
 
 
+# POSTMAN
+Postman started as a REST-API client but in the present it is more than that. What are the features provided by postman?
+- Create API request
+- Design API
+- Create and Share Documentation
+- Collaborate with teams
+- API testing
+
+
+
+
+
 
 
