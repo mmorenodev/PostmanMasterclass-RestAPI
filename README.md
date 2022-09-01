@@ -45,6 +45,23 @@ Postman started as a REST-API client but in the present it is more than that. Wh
 
 You can organize different Workspaces and inside collections which in fact you can create folders inside. 
 
+## Collection and Global Variables
+The different type of variables supported by postman are:
+- Global
+- Collection
+- Environment
+- Data
+- Local
+
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/66931789/188018479-aa9b3442-d939-4055-93db-47077405a50b.png">
+
+## Dynamic Variables
+
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/66931789/188020200-7eabf31f-6255-414a-82d7-629c58656e36.png">
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/66931789/188020441-cc3b2ed8-d2b9-49b8-bc5e-5b9221befafa.png">
+
+## Authentication In Postman
 
 
 
