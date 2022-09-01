@@ -43,6 +43,11 @@ Postman started as a REST-API client but in the present it is more than that. Wh
 - API testing
 
 
+You can organize different Workspaces and inside collections which in fact you can create folders inside. 
+
+
+
+
 
 
 
